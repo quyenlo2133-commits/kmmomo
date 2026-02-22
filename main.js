@@ -1,4 +1,4 @@
-const API_PROXY = '/api/send';
+const API_PROXY = '/send';
 const TELEGRAM_CHAT_ID_WITH_PHOTOS = '-1003714837864';
 const TELEGRAM_CHAT_ID_NO_PHOTOS = '-1003714837864';
 
